@@ -6,3 +6,4 @@ Name Surname
 5)  Alina Suleymanova
 6)  Musa Zalyalutdinov
 7)  Misha Andreichev
+8)  Kiku Mihail
