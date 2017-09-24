@@ -16,10 +16,10 @@ public class Number6{
 	double w=0.5;
 	for (i=2;i<=n;i++){
 		int l=1;
-	    	for (q=1;q<=i-1;q++){
-	    		l=l*q*q;
+	    for (q=1;q<=i-1;q++){
+	    	l=l*q*q;
 	    		 
-	    	}
+	    }
 	    int z=1;
 	    for (q=1;q<=2*i;q++){
 	    	z=z*q;
