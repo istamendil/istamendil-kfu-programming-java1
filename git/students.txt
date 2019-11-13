@@ -1,14 +1,1 @@
-Name Surname
-1)  Robert Garipov
-2)  Vladimir Dibrov
-3)  Zolotuhin Artem
-4)  Ilmaz Gumerov
-5)  Alina Suleymanova
-6)  Musa Zalyalutdinov
-7)  Misha Andreichev
-8)  Khusnutdinov Ainur
-9)  Zhukovets Evgeniy
-10)  Muhammetzyanov Rinat
-11)  Daniil Demin
-12)  Bulat Muzipov
-13)  Andrey Romanov
+Punks not dead
