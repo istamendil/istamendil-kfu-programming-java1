@@ -11,4 +11,3 @@ Name Surname
 10)  Muhammetzyanov Rinat
 11)  Daniil Demin
 12)  Bulat Muzipov
-13)  Andrey Romanov
